@@ -1,3 +1,4 @@
+[![Join our Forum](https://img.shields.io/badge/-Join%20our%20Forum-blue)](https://forums.docker.com/c/docker-extensions/62)
 ![stars](https://img.shields.io/github/stars/collabnix/neo4j-docker-extension)
 ![forks](https://img.shields.io/github/forks/collabnix/neo4j-docker-extension)
 ![Discord](https://img.shields.io/discord/1020180904129335379)
