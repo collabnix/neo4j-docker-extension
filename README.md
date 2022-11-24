@@ -12,7 +12,7 @@ With this Docker Extension, once can setup the Neo4j with just a few commands/cl
 > This is Work-in-progress
 - [x] Building Compose File
 - [] Constructing UI
-- [ ] Final Testing
+- [] Final Testing
 
 
 ## Getting Started
