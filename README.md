@@ -34,6 +34,12 @@ With this Docker Extension, once can setup the Neo4j with just a few commands/cl
  git clone https://github.com/collabnix/neo4j-docker-extension
  ```
  
+ ## Building the Extension
+ 
+ ```
+  make install-extension
+ ```
+ 
  ## Install the Extension
  
  ```shell
