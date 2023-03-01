@@ -1,0 +1,17 @@
+version: '3'
+services:
+  db:
+    image: neo4j:latest
+    ports:
+      - 7474:7474
+      - 7687:7687
+    environment:
+      NEO4J_AUTH: neo4j/neo4j123
+    volumes:
+      - ./data:/data
+  app:
+    build: .
+    ports:
+      - 5001:5000
+    depends_on:
+      - db
