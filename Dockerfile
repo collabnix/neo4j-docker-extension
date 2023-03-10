@@ -1,7 +1,7 @@
 FROM alpine
 LABEL org.opencontainers.image.title="Neo4j" \
     org.opencontainers.image.description="Neo4j Extension for Docker Desktop" \
-    org.opencontainers.image.vendor="Docker Inc." \
+    org.opencontainers.image.vendor="Ajeet Singh Raina" \
     com.docker.desktop.extension.api.version="0.3.0" \
     com.docker.extension.screenshots="" \
     com.docker.extension.categories="Databases" \
