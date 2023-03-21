@@ -18,10 +18,6 @@ A graph database is used to represent relationships.
 
 With this Docker Extension, once can setup the Neo4j with just a few commands/clicks.
 
-> This is Work-in-progress
-- [x] Building Compose File
-- [x] Constructing UI
-- [x] Final Testing
 
 
 ## Getting Started
