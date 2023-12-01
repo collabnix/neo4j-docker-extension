@@ -3,7 +3,6 @@
 ![forks](https://img.shields.io/github/forks/collabnix/neo4j-docker-extension)
 ![Discord](https://img.shields.io/discord/1020180904129335379)
 ![issues](https://img.shields.io/github/issues/collabnix/neo4j-docker-extension)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.neo4j-docker-extension)
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 
